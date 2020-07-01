@@ -1,0 +1,224 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+
+}
+
+
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.header-area{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+}
+
+.half-width{
+    width: 50%;
+    float: left; 
+    padding: 100px 0;
+    
+}
+
+
+.half-width img{
+    width: 100%;  
+}
+.biograhpy-area img{
+    width: 80%;
+}
+
+.half-width h2{
+    margin-top: 150px;
+    font-size: 25px;
+    text-transform: capitalize;
+
+}
+
+.header-content{
+    color: #EC4C7A;
+    font-weight: 800;
+    font-size: 40px;
+    margin: 0;
+}
+
+.header-area p{
+    text-transform: capitalize;
+    color: #8C8C8C;
+    padding-bottom: 35px;
+}
+
+.button{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    background: #EC4C79;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.biograhpy-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+}
+.biograhpy-area p{
+    text-transform: capitalize;
+    color: #8C8C8C;
+    padding-bottom: 35px;
+    text-align: justify;
+}
+
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    padding: 50px 0;
+    height: 400px;
+
+}
+
+.latest-work h2{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 35px;
+    margin-bottom: 100px;
+}
+
+.col-1-3{
+    width: 31%;
+    float: left;
+    overflow: hidden;
+    margin-left: 1%; 
+}
+
+.col-1-3 img{
+    width: 100%;
+}
+
+
+.team-area{
+    padding: 50px 0;
+}
+
+.team-area h2{
+    text-align: center;
+    text-transform: uppercase;
+    color: #202428;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.team-area hr{
+    width: 10%;
+    color: #40485F;
+}
+
+.team-area p{
+    text-align: center;
+    color: #40485F;
+    font-size: 16px;
+    margin-bottom: 20px;
+
+}
+
+.team-membar img{
+    border-radius: 50%;
+}
+
+.team-area h3{
+    text-align: center;
+    text-transform: uppercase;
+   
+}
+
+.team-area h4{
+    text-align: center;
+    margin: 0;
+    color: #77AFBE;
+}
+.team-area p{
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+.client-area{
+   text-align: center;
+   padding: 80px 0;
+ 
+    
+}
+
+
+.client-info h2{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 80px;
+    color: #202428;
+}
+
+.client-info h4{
+    font-size: 25px;
+    margin: 0;
+}
+
+.client-info h5{
+    font-size: 16px;
+    margin-top: 5px;
+    color: #AFAFAF;
+    font-size: 400;
+    
+
+}
+
+.client-info p{
+    font-size: 20px;
+    color: #333333;
+    
+}
+
+
+
+
+
+.client-button{
+    background-color: #EC4C79;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 15px 100px;
+    border-radius: 5px;
+    color: white;
+    
+}
+
+.client-button p{
+    font-size: 18px;
+}
+
+.client-button h4{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+.copyright-area {
+    text-align: center;
+    padding: 50px 0 0 0;
+    font-size: 18px;
+    color: #707070;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
